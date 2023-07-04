@@ -20,7 +20,7 @@ public class Student {
 		this.firstScore = firstScore;
 		this.secondScore = secondScore;
 	}
-	public double getAge() {
+	public double getAvg() {
 		double avg = (double)(firstScore + secondScore) / 2;
 		return avg;
 	}
