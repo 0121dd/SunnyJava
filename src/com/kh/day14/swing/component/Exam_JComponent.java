@@ -13,7 +13,8 @@ import javax.swing.JFrame;
 public class Exam_JComponent extends JFrame{
 	
 	public Exam_JComponent() {
-//		setTitle("JComponent의 공통 메소드 예제");
+//		setTitle("JComponent의 공통 메소드 예제");[
+		
 		super("JComponent의 공통 메소드 예제");
 		setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		
